@@ -77,7 +77,7 @@ This project covers the complete analytics workflow, from data cleaning and mode
 - Discount & Return Impact
 - Price Problem Detection
 
-![Channel](Images/Channel.png)
+![Product Problem](Images/Product-Problem.png)
 
 ---
 
@@ -88,7 +88,7 @@ This project covers the complete analytics workflow, from data cleaning and mode
 - Number of Transactions
 - MoM Growth
 
-![Channel](Images/Channel .png)
+![Channel](Images/Channel.png)
 
 ---
 
