@@ -34,7 +34,7 @@ This project covers the complete analytics workflow, from data cleaning and mode
 - Month-over-Month Growth
 - Profit Margin Analysis
 
-![Executive MOM](Images/Executive MOM.png)
+![Executive MOM](Images/Executive-MOM.png)
 
 ---
 
@@ -44,7 +44,7 @@ This project covers the complete analytics workflow, from data cleaning and mode
 - Revenue vs Return Analysis
 - Category Performance
 
-![Executive AOV](Images/Executive AOV.png)
+![Executive AOV](Images/Executive-AOV.png)
 
 ---
 
@@ -77,7 +77,7 @@ This project covers the complete analytics workflow, from data cleaning and mode
 - Discount & Return Impact
 - Price Problem Detection
 
-![Product Problem](Images/Product Problem.png)
+![Channel](Images/Channel.png)
 
 ---
 
