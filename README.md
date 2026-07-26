@@ -1,1 +1,1 @@
-# Retail-Dashboard
+# Retail Sales Analytics (Microsoft Excel)
