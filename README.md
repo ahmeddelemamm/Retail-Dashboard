@@ -1,19 +1,19 @@
-# 📊 Retail Sales Dashboard | Microsoft Excel
+# 📊 Retail Sales Analytics | Microsoft Excel
 
-This project is an end-to-end Retail Sales Analysis built using Microsoft Excel.
+An end-to-end retail sales analytics project built with Microsoft Excel.
 
-The goal was to turn raw sales data into an interactive dashboard that helps understand business performance and supports better decision-making.
+This project covers the complete analytics workflow, from data cleaning and modeling to building interactive dashboards that provide business insights.
 
-## Tools Used
+## 🛠 Tools
 
 - Microsoft Excel
 - Power Query
 - Power Pivot
 - DAX
 
-## What I worked on
+## 📌 What I Worked On
 
-- Data Cleaning with Power Query
+- Data Cleaning
 - Data Modeling
 - Calendar Table
 - DAX Measures
@@ -26,72 +26,82 @@ The goal was to turn raw sales data into an interactive dashboard that helps und
 
 ---
 
-## Dashboard Pages
+# 📊 Dashboard Pages
 
-### Executive Overview
+## Executive Overview (MoM)
+
 - Revenue, Profit & Return KPIs
-- MoM & YoY Analysis
-- Average Order Value (AOV)
+- Month-over-Month Growth
+- Profit Margin Analysis
 
 ![Executive MOM](Images/Executive MOM.png)
+
+---
+
+## Executive Overview (AOV)
+
+- Average Order Value
+- Revenue vs Return Analysis
+- Category Performance
 
 ![Executive AOV](Images/Executive AOV.png)
 
 ---
 
-### Customer Dashboard
+## Customer Dashboard
 
 - Customer Segmentation
 - RFM Analysis
-- Customer Retention
 - Customer Lifetime Value
+- Customer Retention
 - New vs Returning Customers
 
-![Customer Dashboard](Images/Customer.png)
+![Customer](Images/Customer.png)
 
 ---
 
-### Product Dashboard
+## Product Dashboard
 
 - Best & Worst Performing Products
-- Revenue & Profit Analysis
+- Revenue Analysis
 - Quantity Analysis
+- Profit Margin Analysis
 
-![Product Dashboard](Images/Product.png)
-
----
-
-### Product Price Problems
-
-- Products with negative margins
-- Discount & Return impact
-- Price issue detection
-
-![Product Problems](Images/Product Problem.png)
+![Product](Images/Product.png)
 
 ---
 
-### Channel Dashboard
+## Product Price Problems
 
-- Performance by Channel
+- Products with Negative Profit
+- Discount & Return Impact
+- Price Problem Detection
+
+![Product Problem](Images/Product Problem.png)
+
+---
+
+## Channel Dashboard
+
+- Channel Performance
 - Revenue Contribution
 - Number of Transactions
 - MoM Growth
 
-![Channel Dashboard](Images/Channel .png)
+![Channel](Images/Channel .png)
 
 ---
 
-## Project Demo
+# 🎥 Demo
 
-The full project walkthrough is available on LinkedIn:
+Watch the complete dashboard walkthrough on LinkedIn:
 
-🔗 **Watch the Demo Video**
-(Paste your LinkedIn post link here)
+**🔗 Demo Video:** https://www.linkedin.com/posts/ahmeddelemam_dataanalytics-dataanalysis-microsoftexcel-ugcPost-7485463569900240896-etqw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErS4uwBUJFyHdTqx2NJLdyhyNWz6AnwWuE
 
 ---
 
-## Author
+# 👤 Author
 
-Ahmed Elemam
+**Ahmed Elemam**
+
 - LinkedIn: www.linkedin.com/in/ahmeddelemam
